@@ -1,0 +1,3 @@
+.searchbutton {border-radius: 20px;height: 30px;width: 150px;  color:darkturquoise;border-color:darkturquoise;display: block;margin: 10px;}
+.plusbutton{border-radius: 50%;color:white;background-color:darkturquoise;width: 30px; height: 30px;border-color: darkturquoise;display: block;margin: 10px;}
+.createaccountbutton{height: 40px;width: 170px;background-color:dodgerblue; color: white;box-shadow: 5px 5px 5px black;margin: 10px;}
